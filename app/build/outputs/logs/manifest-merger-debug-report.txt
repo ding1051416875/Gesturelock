@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/54d57ff168733e4516a4d8da8671c468/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/7b2abc0d9c5293d4a474f27aa69cc61e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/b68ef1c6664f415ae708b8dc6c42e258/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/f90a8ae944dd405c834d5ef6d195f538/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/daae3f7dd060a32bc788d84fc530b987/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/6c8e610d5760acc0d408aca31d7ec7c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/ef2ff2fd48206998ca9e2eaa4d1bd901/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/66494303fa35bb983926842ac89ab5d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/e281483ca095a0610ba364b1c4ceacde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/dd16484fca8f1fb0163f529a7ff468d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/9929d0093528d363b9b50d0cdcfbecd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/17fcfceab3fbff613dc0ce2422a5f6bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/f2447ed45d435ed8cb8eec106c061854/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/2a9c7afab06df4b0cfcd36cf53e4c90e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/9cf240661d5b0702bfa7f1804f14bf18/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/ce400f45c6ae19b48bcdbf4e8293f7ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/955a9b7e4fa75445d362f509616dc91c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/810fb210b86763e68c011d37e186a008/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/d694aee622ade165c213542fa239cb20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/1246e9e695f427ac7a833ff7e04d693c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/e0299f7b03648b19a672d2694c7e4e27/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/a0e6aebf4c54367e7d1f7642c1395727/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/9655575ceb7cd2a0633345b46a859313/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/80cbbb8a5ef93964a252188252e62326/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/9c9f33b48ec6db042695574fc9f9cd9e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/2a9c7afab06df4b0cfcd36cf53e4c90e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/2a9c7afab06df4b0cfcd36cf53e4c90e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/9cf240661d5b0702bfa7f1804f14bf18/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/9cf240661d5b0702bfa7f1804f14bf18/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/2a9c7afab06df4b0cfcd36cf53e4c90e/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:7:9-40
+	android:theme
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:9:9-40
+activity#com.wgs.jiesuo.MainActivity
+ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:10:9-19:20
+	android:label
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:12:13-56
+	android:theme
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:13:13-66
+	android:name
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.wgs.jiesuo.FristActivity
+ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:20:9-24:20
+	android:label
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:22:13-56
+	android:theme
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml:21:13-56
+uses-sdk
+INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/54d57ff168733e4516a4d8da8671c468/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/54d57ff168733e4516a4d8da8671c468/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/7b2abc0d9c5293d4a474f27aa69cc61e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/7b2abc0d9c5293d4a474f27aa69cc61e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/b68ef1c6664f415ae708b8dc6c42e258/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/b68ef1c6664f415ae708b8dc6c42e258/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/f90a8ae944dd405c834d5ef6d195f538/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/f90a8ae944dd405c834d5ef6d195f538/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/daae3f7dd060a32bc788d84fc530b987/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/daae3f7dd060a32bc788d84fc530b987/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/6c8e610d5760acc0d408aca31d7ec7c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/6c8e610d5760acc0d408aca31d7ec7c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/ef2ff2fd48206998ca9e2eaa4d1bd901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/ef2ff2fd48206998ca9e2eaa4d1bd901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/66494303fa35bb983926842ac89ab5d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/66494303fa35bb983926842ac89ab5d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/e281483ca095a0610ba364b1c4ceacde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/e281483ca095a0610ba364b1c4ceacde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/dd16484fca8f1fb0163f529a7ff468d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/dd16484fca8f1fb0163f529a7ff468d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/9929d0093528d363b9b50d0cdcfbecd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/9929d0093528d363b9b50d0cdcfbecd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/17fcfceab3fbff613dc0ce2422a5f6bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/17fcfceab3fbff613dc0ce2422a5f6bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/f2447ed45d435ed8cb8eec106c061854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/f2447ed45d435ed8cb8eec106c061854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/2a9c7afab06df4b0cfcd36cf53e4c90e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/2a9c7afab06df4b0cfcd36cf53e4c90e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/9cf240661d5b0702bfa7f1804f14bf18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/9cf240661d5b0702bfa7f1804f14bf18/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/ce400f45c6ae19b48bcdbf4e8293f7ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/ce400f45c6ae19b48bcdbf4e8293f7ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/955a9b7e4fa75445d362f509616dc91c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/955a9b7e4fa75445d362f509616dc91c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/810fb210b86763e68c011d37e186a008/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/810fb210b86763e68c011d37e186a008/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/d694aee622ade165c213542fa239cb20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/d694aee622ade165c213542fa239cb20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/1246e9e695f427ac7a833ff7e04d693c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/1246e9e695f427ac7a833ff7e04d693c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/e0299f7b03648b19a672d2694c7e4e27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ding/.gradle/caches/transforms-2/files-2.1/e0299f7b03648b19a672d2694c7e4e27/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/a0e6aebf4c54367e7d1f7642c1395727/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/a0e6aebf4c54367e7d1f7642c1395727/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/9655575ceb7cd2a0633345b46a859313/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/9655575ceb7cd2a0633345b46a859313/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/80cbbb8a5ef93964a252188252e62326/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/80cbbb8a5ef93964a252188252e62326/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/9c9f33b48ec6db042695574fc9f9cd9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ding/.gradle/caches/transforms-2/files-2.1/9c9f33b48ec6db042695574fc9f9cd9e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ding/Downloads/Gestruelock/app/src/main/AndroidManifest.xml

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Oct 26 12:39:11 CST 2019
+0.baseType=DIRECTORY
+0.base=/Users/ding/Downloads/Gestruelock/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1

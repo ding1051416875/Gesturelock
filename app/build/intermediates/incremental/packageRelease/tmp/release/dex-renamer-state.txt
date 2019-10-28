@@ -1,0 +1,4 @@
+#Sat Oct 26 12:39:11 CST 2019
+base.0=/Users/ding/Downloads/Gestruelock/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex
